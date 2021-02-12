@@ -5,6 +5,9 @@ using the Divi Builder.
 
 http://www.alexmedia.com
 
+## Version
+1.3.1
+
 ## Getting Started
 
 ### Customize the following files:
