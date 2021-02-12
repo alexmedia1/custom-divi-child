@@ -22,5 +22,5 @@ Add files as needed.
 
 ## License
 
-Copyright © 2021, [Alexander Media, Inc.](http://www.alexmedia.com).
-Released under the [GNU General Public License v2 or later](http://www.gnu.org/licenses/gpl-2.0.html).
+Copyright © 2021, [Alexander Media, Inc.](http://www.alexmedia.com)
+Released under the [GNU General Public License v2 or later](http://www.gnu.org/licenses/gpl-2.0.html)
